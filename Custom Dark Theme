@@ -73,6 +73,28 @@
     border-radius: 10px !important;
 }
 
+[class*=scroller-hE2gWq] > [class*=header-] {
+    background-color: rgba(55, 55, 55, 0);
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 10px;
+    border: 1px solid var(--background-modifier-accent);
+}
+
+[class*=toolbar-3_r2xA] > [class*=inviteToolbar-], [class*=recentsIcon-], [class*=anchor-] {
+    display: none;
+}
+
+[class*=toolbar-3_r2xA] > [class*=iconWrapper-2awDjA] {
+    border: 1px solid var(--background-modifier-accent);
+    border-radius: 10px;
+    padding-bottom: 33px;
+    padding-top: 6.5px;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
 :root, .theme-dark {
     --interactive-active: #dddddd;
     --channels-default: #a8a8a8;
