@@ -1,4 +1,4 @@
-# Discord-Custom-Dark-Theme-
+# Discord-Custom-Dark-Theme
 A discord theme for customs
 
 ![image](https://github.com/JayNightmare/Discord-Custom-Dark-Theme-/assets/34739807/aa1085d2-7656-4fed-bf3f-0c3e04892fd1)
